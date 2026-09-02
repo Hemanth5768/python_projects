@@ -4,4 +4,7 @@ Addition=Number1+Number2
 sub=Number1-Number2
 multi=Number1*Number2
 div=Number1/Number2
-print(f"Additiion:{Addition}/n,subration:{sub}/n")
+print(f"Additiion:{Addition}")
+print(f"subration:{sub}")
+print(f"Multiplication:{multi}")
+print(f"Division:{div}")
